@@ -1,0 +1,7 @@
+publi class cliente{
+
+plublic void cadastrarClintes (){
+
+}
+
+}
